@@ -39,7 +39,8 @@ ul {
   flex: 1 1 auto;
 }
 #header_image {
-  width: 475px;
+  width: 55%;
+  height: auto;
 }
 .header_less_nav {
   display: flex;

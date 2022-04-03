@@ -1,5 +1,5 @@
 body {
-  font-family: "roboto";
+  font-family: "Roboto", sans-serif;
   margin: 0;
 }
 ul {
@@ -114,6 +114,8 @@ ul {
   width: 50%;
   font-size: 36px;
   color: #1f2937;
+  font-weight: 300;
+  font-style: italic;
 }
 .attrib {
   text-align: right;

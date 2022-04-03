@@ -24,13 +24,15 @@ ul {
 }
 .header_title {
   font: bold;
-  font-size: 28pt;
+  font-size: 48px;
   font-weight: 900;
   margin-bottom: 15px;
+  color: #f9faf8;
 }
 .header_subtitle {
-  font-size: 16pt;
+  font-size: 18px;
   margin-bottom: 15px;
+  color: #e5e7eb;
 }
 .header_container {
   width: 70%;
@@ -81,9 +83,10 @@ ul {
   color: black;
 }
 .infocards_title {
-  font-size: 16pt;
+  font-size: 36px;
   font-weight: 600;
   margin: 40px 0px;
+  color: #1f2937;
 }
 .card_container {
   display: flex;

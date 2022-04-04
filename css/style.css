@@ -46,6 +46,7 @@ ul {
 #header_image {
   width: 55%;
   height: auto;
+  max-height: 325px;
 }
 .header_less_nav {
   display: flex;
@@ -57,7 +58,7 @@ ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 40px;
+  margin-bottom: 35px;
   padding: 15px;
 }
 .header_button {

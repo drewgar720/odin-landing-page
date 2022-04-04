@@ -1,6 +1,6 @@
 # odin-landing-page
 
-Baby's first website. Following the lesson page from the Odin Project.
+Baby's first website. Attempting to recreate the given project page for the Odin Project lesson.
 
 Photo Credits:
 

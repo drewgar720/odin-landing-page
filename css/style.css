@@ -188,3 +188,15 @@ ul {
   background-color: #3882f6;
   border-radius: 10px;
 }
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  background-color: #1f2937;
+  color: #e5e7eb;
+}
+.copyright {
+  font-size: 14pt;
+  color: #e5e7eb;
+}
